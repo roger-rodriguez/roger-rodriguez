@@ -14,3 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+- 🔭 Working at [Movable Ink](https://github.com/movableink)
+- ⚡ My side project is [Campsite](https://getcampsite.com)
+- 🌱 Learning about event driven microservices & rust
